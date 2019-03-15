@@ -1,4 +1,4 @@
-# KIWIspray
+# ![KIWIspray Logo](kiwispray80.gif) KIWIspray
 
 A tool for easily deploying KIWI images via PXE
 
